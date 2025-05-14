@@ -31,7 +31,10 @@ Publish the website in the given URL.
 
 
 ## OUTPUT:
-
+![alt text](<Screenshot (2).png>)
+![alt text](<Screenshot (3).png>)
+![alt text](<Screenshot (5).png>)
+![alt text](<Screenshot (6).png>)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
